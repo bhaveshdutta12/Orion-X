@@ -5,7 +5,7 @@
 - **Bhavesh**
 - **Suparna**
 - **Purvesh**
-- **Jonshen**
+- **Johnson**
 - **Aryan**
 
 ## Event: 2024 NASA Space Apps Challenge
