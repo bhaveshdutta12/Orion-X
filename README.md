@@ -12,8 +12,7 @@
 **Challenge Title**: Seismic Detection Across the Solar System  
 **Difficulty**: Advanced  
 **Group Name**: Orion-X  
-**Challenge URL**: [NASA Space Apps Challenge](https://youtu.be/pQfwtutsjFw) ![Seismic Detection Challenge](URL_to_hosted_image) <!-- Replace with actual image URL -->
-
+**Challenge URL**: [NASA Space Apps Challenge](https://youtu.be/pQfwtutsjFw) !
 
 ### Overview
 This project is our submission for the 2024 NASA Space Apps Challenge. Our goal is to develop an algorithm that distinguishes seismic signals from noise using real data from the Apollo missions and the Mars InSight Lander. By analyzing planetary seismic data, we aim to filter out unnecessary noise and focus on detecting quakes, which are rare but critical events in planetary research.
